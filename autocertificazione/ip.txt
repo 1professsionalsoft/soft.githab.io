@@ -1,0 +1,44 @@
+
+Profilo Home&Life SuperWiFi-000679 sull'interfaccia Wi-Fi 3: 
+======================================================================= 
+
+Applicato/a: Tutti i profili utente    
+
+Informazioni profilo 
+------------------- 
+    Versione               : 1
+    Tipo                   : LAN wireless
+    Nome                   : Home&Life SuperWiFi-000679
+    Opzioni di controllo   : 
+        Modalit… connessione     : Connetti automaticamente
+        Broadcast rete          : Connetti solo in presenza di
+                                  broadcast della rete
+        Passaggio automatico     : Non passare ad altre reti
+        Assegnazione casuale indirizzi MAC  : disabilitata
+
+Impostazioni connettivit… 
+--------------------- 
+    Numero di SSID         : 1
+    Nome SSID                    : "Home&Life SuperWiFi-000679"
+    Tipo rete              : Infrastruttura
+    Tipo frequenza radio              : [ Qualsiasi tipo frequenza radio ]
+    Estensione fornitore   : non presente
+
+Impostazioni sicurezza 
+----------------- 
+    Autenticazione         : WPA2-Personal
+    Crittografia               : CCMP
+    Autenticazione         : WPA2-Personal
+    Crittografia               : GCMP
+    Chiave di sicurezza      : Presente
+    Contenuto chiave            : D4A6AGSG52CUKKKM
+
+Impostazioni costo 
+------------- 
+    Costo                   : Senza restrizioni
+    Traffico eccessivo              : No
+    Limite dati quasi raggiunto : No
+    Limite dati superato        : No
+    Roaming                : No
+    Origine costo            : Predefinito
+
