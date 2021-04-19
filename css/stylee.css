@@ -1,0 +1,68 @@
+
+span{
+    font-size: 20px;
+    color: rgb(250, 26, 231);
+}
+
+h1{
+    color: rgb(226, 68, 187);
+    text-align: center;
+    border:4px solid rgb(0, 255, 179);
+    margin: 30px;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: rgb(2, 24, 24);
+    opacity: 0.8;
+}
+h1:hover{
+    opacity: 1;
+}
+html {
+    background-image: url(https://kodi.tv/sites/default/files/styles/hero_short/public/article/field_image/Kodi_Splash_v18.7_Leia_Final_1080p.jpg?itok=FNde0JAo);
+    -webkit-background-size: cover;
+    -moz-background-size: cover ;
+    -o-background-size: cover;
+    background-size: cover ;
+    background-size: cover;
+    
+}
+
+h2 {
+    color: rgb(32, 218, 72);
+    text-align: center;
+}
+
+
+
+div{
+    color: rgb(22, 253, 253);
+    font-size: 20px;
+}
+
+
+
+.block>ul{
+    color: rgb(58, 197, 240);
+    font-size: 20;
+    opacity: 0.5;
+}
+
+.block>ul:hover{
+    opacity: 1;
+}
+
+#bianco {
+    color: rgb(224, 178, 217);
+}
+
+div #rd_cnopki {
+    color: chartreuse;
+
+}
+
+.block{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgb(241, 38, 164);
+    background: url(https://www.ansys.com/-/media/ansys/ansysrefresh/examples/release-highlights/3d-design-highlights-800x500.jpg?h=500&la=it-IT&w=800&hash=8D8111E9E129CF18AFAD694F47CA6490DD7CA1D6) 70% no-repeat
+}
