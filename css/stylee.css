@@ -19,7 +19,9 @@ h1:hover{
 }
 html {
     background-image: url(https://kodi.tv/sites/default/files/styles/hero_short/public/article/field_image/Kodi_Splash_v18.7_Leia_Final_1080p.jpg?itok=FNde0JAo);
-    -webkit-background-size: cover;
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     -moz-background-size: cover ;
     -o-background-size: cover;
     background-size: cover ;
